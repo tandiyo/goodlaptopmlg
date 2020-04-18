@@ -1,6 +1,6 @@
 {
-  "name": "Goodlaptop Malang",
-  "short_name": "GoLaptop",
+  "name": "Goodlaptop",
+  "short_name": "Goodlaptop",
   "scope": "https://www.goodservicelaptop.com/",
   "start_url": "https://www.goodservicelaptop.com/",
   "orientation": "portrait",
