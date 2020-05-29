@@ -10,39 +10,40 @@
   "description": "Goodlaptop spesialis service MacBook &amp; laptop, jual sparepart MacBook &amp; laptop, pusat repair MacBook &amp; laptop di Malang. Jasa repair engsel, spesialis service keyboard laptop, jasa instalasi OS (Operating System), Upgrade macOS di Malang.",
   "icons": [
     {
-      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s48/logo.png",
+      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s50-b1-c0xfffad738/logo.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s72/logo.png",
+      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s74-b1-c0xfffad738/logo.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s96/logo.png",
+      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s98-b1-c0xfffad738/logo.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s144/logo.png",
+      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s146-b1-c0xfffad738/logo.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s168/logo.png",
+      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s170-b1-c0xfffad738/logo.png",
       "sizes": "168x168",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s192/logo.png",
+      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s194-b1-c0xfffad738/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s512/logo.png",
+      "src": "https://1.bp.blogspot.com/-YvjALBTXX3o/XpseUS-eXhI/AAAAAAAAAL8/_vSXaLjj_HU0NLA0u5L3FqZHzO03i0VAwCLcBGAsYHQ/s544-b16-c0xfffad738/logo.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
